@@ -1,7 +1,7 @@
 # Investigating Sakila DVD Rental Database
 
 ### Introduction
-In this project, I will use SQL to gain insights on the Sakila DVD Rental Database. 
+In this project, I used SQL(PostgreSQL) to gain insights and create visualization on the Sakila DVD Rental Database. 
 
 I will be analyzing the database to answer certain questions the company would find beneficial in  order to increase profits. This consists of finding patterns on revenue, which kind of movies are being rented out more, and how do the two stores compare to each other in terms of profits and number of rentals. 
 
